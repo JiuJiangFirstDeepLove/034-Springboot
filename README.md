@@ -1,4 +1,4 @@
-# 基于Springboot的网盘系统
+![vx](https://github.com/JiuJiangFirstDeepLove/034-Springboot/assets/148224458/4d42c388-4397-449c-9578-3bf7c282777e)# 基于Springboot的网盘系统
 
 # Springboot-034
 
@@ -24,11 +24,6 @@ mysql (12张表)
 
 
 
-## 需要看运行视频或源码
-
-```html
-见images目录下面的a.txt文件
-```
 
 
 
@@ -48,3 +43,7 @@ http://localhost:8081/
 账号 admin
 密码 123456
 ```
+
+##  技术交流或打赏
+
+![1688642565881](./images/vx.jpg)
