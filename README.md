@@ -1,4 +1,4 @@
-![vx](https://github.com/JiuJiangFirstDeepLove/034-Springboot/assets/148224458/4d42c388-4397-449c-9578-3bf7c282777e)# 基于Springboot的网盘系统
+# 基于Springboot的网盘系统
 
 # Springboot-034
 
